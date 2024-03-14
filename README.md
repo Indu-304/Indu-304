@@ -26,8 +26,7 @@ Here are some of the projects I've been working on:
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indu-304&show_icons=true&theme=dark)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=indu-304&theme=darkhub)
-[View my GitHub Activity Graph](https://github.com/indu-304)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=indu-304&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=indu-304&layout=compact&theme=dark)
 
 
