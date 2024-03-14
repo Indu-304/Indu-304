@@ -1,18 +1,15 @@
-### Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indu-304&show_icons=true&theme=dark)
-
-# 🚀 Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile!
 
 ## About Me
 I'm a passionate Information Technology student who loves coding and exploring new technologies. My goal is to make a positive impact on the world through innovative solutions.
 
 ### Skills
-- **Programming Languages**: Java, Python, JavaScript
+- **Programming Languages**: Java, Python, JavaScript, C
 - **Web Development**: HTML, CSS, React
-- **Database**: MySQL, MongoDB
-- **Tools & Technologies**: Git, Docker, AWS
+- **Database**: MySQL, php, Apache Tomcat, PostgreSQL
+- **Tools & Technologies**: Git
 
-## Projects
+<!--## Projects
 Here are some of the projects I've been working on:
 
 1. **[Project Name 1](link-to-project)**: A web application built with React and Express for managing tasks.
@@ -25,15 +22,14 @@ Here are some of the projects I've been working on:
    - Features:
      - Expense logging
      - Budget tracking
-     - Data visualization
+     - Data visualization-->
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=indu-304&show_icons=true&theme=dark)
 
 ## Get in Touch
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Email: your.email@example.com
-- Personal Website: [Your Website](link-to-website)
+- Email: d.indusree@gmail.com
+<!--- Personal Website: [Your Website](link-to-website)-->
 
 Let's connect and collaborate on exciting projects! 😊
 
