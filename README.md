@@ -50,10 +50,12 @@
 <h2 align="center" style="font-size: 24px;">━━━⊱⋆GitHub Stats⋆⊰━━━</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indu-304&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indu-304&layout=compact&theme=dark" alt="Top Languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indu-304&theme=dark" alt="Streak Stats">
+  <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="./stats-dark.html">
+ <img alt="snake!" src="./stats-light.html">
+</picture>
 </div>
+
 
 <h2 align="center" style="font-size: 24px;">━━━⊱⋆Get in Touch⋆⊰━━━</h2>
 <p align="center">
