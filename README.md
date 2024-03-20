@@ -52,7 +52,7 @@
 <div align="center">
   <picture>
  <source media="(prefers-color-scheme: dark)" srcset="./stats-dark.html">
- <img alt="snake!" src="./stats-light.html">
+ <img alt="stats" src="./stats-light.html">
 </picture>
 </div>
 
