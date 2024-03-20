@@ -3,7 +3,7 @@
 
 <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Animated GIF" width="225">
 <p>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&pause=800&color=EE5396&center=true&vCenter=true&random=true&width=600&height=101&lines=Hello!+I'm+Indusree!;Information+Technology+student;.°˖✧+Code+should+dazzle+as+much+as+it+delivers+✧˖°.;Passionate+about+learning+and+exploring+new+technologies." alt="Typing Animation">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&pause=800&color=EE5396&center=true&vCenter=true&random=true&width=600&height=101&lines=Hello!+I'm+Indusree!;Information+Technology+student;.°˖✧+Code+should+dazzle+as+much+as+it+delivers+✧˖°.;Passionate+about+learning+and+exploring+new+technologies.;Always+learning+new+things" alt="Typing Animation">
 </p><br>
 
 <br>
@@ -50,9 +50,9 @@
 <h2 align="center" style="font-size: 24px;">━━━⊱⋆GitHub Stats⋆⊰━━━</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indu-304&show_icons=true&theme=dracula&bg_color=00000000&rank_icon=github" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indu-304&layout=compact&theme=dracula&bg_color=00000000" alt="Top Languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indu-304&background=00000000&theme=dracula" alt="Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=indu-304&show_icons=true&theme=midnight-purple&bg_color=00000000&rank_icon=github&text_color=AE6DEB" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indu-304&layout=compact&theme=midnight-purple&bg_color=00000000&text_color=AE6DEB" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indu-304&background=00000000&theme=midnight-purple&dates=AE6DEB" alt="Streak Stats">
 </div>
 
 <h2 align="center" style="font-size: 24px;">━━━⊱⋆Get in Touch⋆⊰━━━</h2>
