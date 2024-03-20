@@ -51,8 +51,8 @@
 
 <div align="center">
   <picture>
- <source media="(prefers-color-scheme: dark)" srcset="./stats-dark.html">
- <img alt="stats" src="./stats-light.html">
+ <source media="(prefers-color-scheme: dark)" srcset="./stats-dark.md">
+ <img alt="stats" src="./stats-light.md">
 </picture>
 </div>
 
